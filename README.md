@@ -1,0 +1,2 @@
+# GoBishopDoc
+Documents for GoBishop
