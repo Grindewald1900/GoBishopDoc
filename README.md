@@ -16,10 +16,12 @@ Documents for GoBishop
 - Use `Flask app` to directly serve the trained model to a web interface and perform real-time facial expression recognition on video and image data. 
 
 
-#### Project info
-- [Documentation](https://github.com/Grindewald1900/FunnyProjects/blob/master/Facial%20Expression%20recognition/Project/Facial_Expression_Training.ipynb)  
-- [Project Link](https://github.com/Grindewald1900/FunnyProjects/tree/master/Facial%20Expression%20recognition/Project)
-- [Wiki](https://www.coursera.org/projects/facial-expression-recognition-keras)
+#### Project info  
+- [Source Code](https://github.com/Grindewald1900/GoBishop)
+- [Documentation](https://github.com/Grindewald1900/GoBishopDoc)  
+- [Project Link](https://github.com/users/Grindewald1900/projects/1)  
+- [UI Design](https://modao.cc/app/bf7be61ff0e1f171e19bac028d956ae97024a14c?simulator_type=device&sticky#screen=skj7molhzbzw9q0)
+- [Wiki]()
 
 ### 2 - System Documentation
 
