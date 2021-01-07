@@ -15,7 +15,7 @@ Documents for GoBishop
 
 - Use `Flask app` to directly serve the trained model to a web interface and perform real-time facial expression recognition on video and image data. 
 
-#####Purpose
+##### Purpose
 The purpose of this document is to establish a mobile user terminal (IOS&Android) to provide Bishop's University students with channels and news to participate in activities, establish an online second-hand market, and provide an online window for campus affairs reservations, with convenience and timeliness for improving the quality of student campus life.
 
 #### Project info  
