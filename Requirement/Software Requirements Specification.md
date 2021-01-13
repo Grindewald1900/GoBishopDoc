@@ -27,6 +27,18 @@ The purpose of this document is to establish a mobile user terminal (IOS&Android
 #### Assumptions and Dependencies
 
 ### System Features  
-#### System Feature 1
-<img src="https://github.com/Grindewald1900/GoBishopDoc/blob/main/Image/JoinEvents.jpg?raw=true">
+#### System Feature 1 Join Event
+<img src="https://github.com/Grindewald1900/GoBishopDoc/blob/main/Image/JoinEvents.jpg">
+
+#### System Feature 2 Collect Event
+<img src="https://github.com/Grindewald1900/GoBishopDoc/blob/main/Image/CollectEvent.jpg">
+
+#### System Feature 3 Post Event
+<img src="https://github.com/Grindewald1900/GoBishopDoc/blob/main/Image/PostEvent.jpg" width="60%">
+
+#### System Feature 4 Search Event
+<img src="https://github.com/Grindewald1900/GoBishopDoc/blob/main/Image/SearchEvent.jpg" width="80%">
+
+#### System Feature 5 Share Event
+<img src="https://github.com/Grindewald1900/GoBishopDoc/blob/main/Image/ShareEvent.jpg" width="70%">
 
