@@ -42,3 +42,8 @@ The purpose of this document is to establish a mobile user terminal (IOS&Android
 #### System Feature 5 Share Event
 <img src="https://github.com/Grindewald1900/GoBishopDoc/blob/main/Image/ShareEvent.jpg" width="70%">
 
+#### System Feature 6 Log In
+<img src="https://github.com/Grindewald1900/GoBishopDoc/blob/main/Image/LogIn.jpg" width="90%">
+
+#### System Feature 7 Register
+<img src="https://github.com/Grindewald1900/GoBishopDoc/blob/main/Image/Register.jpg" width="90%">
