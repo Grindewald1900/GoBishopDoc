@@ -16,6 +16,11 @@ Documents for GoBishop
 - [Issue](https://github.com/Grindewald1900/GoBishop/issues)
 - [Version Control](https://github.com/Grindewald1900/GoBishop/branches)
 
+
+### Related Links
+- [Android Permission List](https://developer.android.com/reference/android/Manifest.permission)
+- [权限列表中文版](https://www.jianshu.com/p/14c74e158c24?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+
 ### 1 - Software Requirements Specification 
 - [Software Requirements Specification](https://github.com/Grindewald1900/GoBishopDoc/blob/main/Requirement/Software%20Requirements%20Specification.md)
 
